@@ -1,0 +1,34 @@
+body{
+    background-color: beige;
+
+}
+
+.box{
+    background-color:blue;
+    display: grid;
+    height: 300px;
+    width: 300px;
+    padding: 100px;
+    border-radius: 30px;
+    margin-left: 30%;
+    box-shadow: 20px 20px 20px 20px purple;
+
+}
+
+
+#myButton:hover {
+    background-color: yellow;
+    color: black;
+}
+
+#myButton{
+    width: 100px;
+    text-align: center;
+    margin-left: 30%;
+}
+
+h1{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 5rem;
+    background-color: yellow;
+}

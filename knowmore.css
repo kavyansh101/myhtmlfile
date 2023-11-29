@@ -1,0 +1,15 @@
+body{
+    background-color: rgb(231, 169, 87);
+}
+
+h2{
+    color: whitesmoke;
+    font-size: 50px;
+}
+
+p{
+    color: yellow;
+    background-color: black;
+    display: flex;
+    font-size: 30px;
+}

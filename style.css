@@ -1,0 +1,71 @@
+.menuimg{
+    width: 800px;
+    margin: auto;
+    padding-left: 360px;
+}
+
+#menu{
+    background-color: aqua;
+}
+
+.guidelines{
+    background-color: aqua;
+}
+
+.order-now-button {
+    background-color: #4CAF50;
+    color: white;
+    padding: 10px 20px;
+    font-size: 16px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    text-align: center;
+}
+
+#home{
+    background-image:url(fresh-coffee-steams-wooden-table-close-up-generative-ai_188544-8923.avif) ;
+    color: aliceblue;
+}
+
+#order{
+    background-image: url(Cup-Of-Creamy-Coffee-500x375.png);
+    color: aliceblue;
+}
+
+#contact{
+    background-color: gray;
+
+}
+
+.logo{
+    width: 100px;
+    
+}
+
+.my-button {
+    display: inline-block;
+    padding: 10px 20px;
+    font-size: 16px;
+    text-align: center;
+    text-decoration: none;
+    cursor: pointer;
+    border: 2px solid #3498db;
+    color: ;
+    border-radius: 5px;
+    transition: background-color 0.3s ease;
+    width: 500px;
+    display: flex;
+    text-align: center;
+}
+
+  /* Styling for the button on hover */
+.my-button:hover {
+    background-color: #3498db;
+    color: white;
+}
+
+.knowmore , .aboutcafe{
+    background-color: black;
+    color: white;
+}
